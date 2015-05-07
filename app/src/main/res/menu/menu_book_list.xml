@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".BookList">
+
+    <item android:id="@+id/showBookAuthorItem_b"
+        android:title="@string/menuitem_show_book_author"
+        android:orderInCategory="1"
+        android:icon="@android:drawable/ic_menu_info_details" />
+    <item android:id="@+id/showAuthorsItem_b"
+        android:title="@string/menuitem_show_authors"
+        android:orderInCategory="2"
+        android:icon="@android:drawable/ic_menu_info_details"/>
+    <item android:id="@+id/showBooksItem_b"
+        android:title="@string/menuitem_show_books"
+        android:orderInCategory="3"
+        android:icon="@android:drawable/ic_menu_info_details"/>
+    <item android:id="@+id/addAuthorItem_b"
+        android:title="@string/menuitem_add_author"
+        android:orderInCategory="4"
+        android:icon="@android:drawable/ic_menu_add"/>
+    <item android:id="@+id/addBookItem_b"
+        android:title="@string/menuitem_add_book"
+        android:orderInCategory="5"
+        android:icon="@android:drawable/ic_menu_add"/>
+
+</menu>

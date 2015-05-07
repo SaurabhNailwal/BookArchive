@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">BookArchive</string>
+
+    <string name="button_save_book">Save Book</string>
+    <string name="button_save_author">Save Author</string>
+    <string name="menuitem_show_book_author">Show Book Authors</string>
+    <string name="menuitem_add_book">Add Book</string>
+    <string name="menuitem_add_author">Add Author</string>
+    <string name="menuitem_show_books">Show Books</string>
+    <string name="menuitem_show_authors">Show Authors</string>
+    <string name="menuitem_edit">Edit</string>
+    <string name="menuitem_delete">Delete</string>
+    <string name="menuitem_return_to_main_screen">Return to main screen</string>
+    <string name="menuitem_specify_book_authors">Specify Book Authors</string>
+    <string name="menuitem_specify_author_books">Specify Author Books</string>
+    <string name="hint_isbn">ISBN#</string>
+    <string name="hint_title">Title</string>
+    <string name="hint_edition">Edition</string>
+    <string name="hint_year_published">Year Published</string>
+    <string name="label_isbn">ISBN#:</string>
+    <string name="label_title">Title:</string>
+    <string name="label_edition">Edition:</string>
+    <string name="label_year_published">Year Published:</string>
+    <string name="hint_first_name">First Name</string>
+    <string name="hint_last_name">Last Name</string>
+    <string name="label_first_name">First Name:</string>
+    <string name="label_last_name">Last Name:</string>
+
+    <string name="action_settings">Settings</string>
+</resources>

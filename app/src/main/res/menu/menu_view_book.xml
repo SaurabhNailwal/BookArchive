@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".ViewBook">
+    <item android:id="@+id/editItem"
+        android:title="@string/menuitem_edit"
+        android:orderInCategory="1" android:alphabeticShortcut="e"
+        android:titleCondensed="@string/menuitem_edit"
+        android:icon="@android:drawable/ic_menu_edit"></item>
+    <item android:id="@+id/deleteItem"
+        android:title="@string/menuitem_delete"
+        android:orderInCategory="2" android:alphabeticShortcut="d"
+        android:titleCondensed="@string/menuitem_delete"
+        android:icon="@android:drawable/ic_delete"></item>
+    <item android:id="@+id/specifyBookAuthorsItem"
+        android:title="@string/menuitem_specify_book_authors"
+        android:orderInCategory="3" android:alphabeticShortcut="s"
+        android:icon="@android:drawable/ic_menu_add"></item>
+    <item android:id="@+id/returnToMainItem"
+        android:title="@string/menuitem_return_to_main_screen"
+        android:orderInCategory="4" android:alphabeticShortcut="r"
+        android:icon="@android:drawable/ic_menu_revert"></item>
+</menu>
